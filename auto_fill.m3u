@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1,alpha_2ott-sky_action
+https://raw.githubusercontent.com/udzaa2238/sky-sport/refs/heads/main/alpha_2ott-sky_action.m3u8
+#EXTINF:-1,alpha_2ott-sky_sport+
+https://raw.githubusercontent.com/udzaa2238/sky-sport/refs/heads/main/alpha_2ott-sky_sport+.m3u8
+#EXTINF:-1,alpha_2ott-sky_sport_F1
+https://raw.githubusercontent.com/udzaa2238/sky-sport/refs/heads/main/alpha_2ott-sky_sport-golf(FHD).m3u8
+#EXTINF:-1,alpha_2ott-sky_sport_PL
+https://raw.githubusercontent.com/udzaa2238/sky-sport/refs/heads/main/alpha_2ott-sky_sport-premier.m3u8
