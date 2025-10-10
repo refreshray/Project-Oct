@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="OTT Navigator Custom EPG">
+
+  <!-- 🧙‍♂️ Mushoku no Eiyuu -->
+  <programme channel="Mushoku no Eiyuu">
+    <title lang="th">Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga</title>
+    <desc lang="th">เรื่องราวของ “อาเรล” เด็กหนุ่มไร้คลาสที่แม้จะไม่มีสกิล แต่ยังคงมุ่งมั่นฝึกฝนจนกลายเป็นฮีโร่ผู้ยิ่งใหญ่</desc>
+  </programme>
+
+  <!-- ⚔️ Sozai Saishuka -->
+  <programme channel="Sozai Saishuka no Isekai Ryokouki">
+    <title lang="th">Sozai Saishuka no Isekai Ryokouki</title>
+    <desc lang="th">คามิชิโระ ทาเครุ ถูกส่งไปต่างโลกในชื่อ “มาเดียส” ใช้สกิลค้นหาวัตถุดิบหายากออกเดินทางผจญภัยและค้าขาย</desc>
+  </programme>
+
+  <!-- 🦸 Toujima Tanzaburou -->
+  <programme channel="Toujima Tanzaburou wa Kamen Rider ni Naritai">
+    <title lang="th">Toujima Tanzaburou wa Kamen Rider ni Naritai</title>
+    <desc lang="th">โทจิมะ ทันซาบุโร่ ชายวัย 40 ที่ยังมีความฝันอยากเป็นคาเมนไรเดอร์ วันหนึ่งได้ออกช่วยคนจริง ๆ จนกลายเป็นฮีโร่ตัวจริง</desc>
+  </programme>
+
+</tv>
