@@ -46,7 +46,7 @@ https://example.com/music/lofi_radio.m3u8
 #DESCRIPTION:สารคดีสำรวจความงดงามของธรรมชาติและสิ่งมีชีวิตทั่วโลกจาก BBC Earth
 https://example.com/documentary/planet_earth_2.m3u8
 
-#EXTINF:-1 tvg-id="docu002" group-title="สารคดี" tvg-logo="https://m.media-amazon.com/images/I/81OGFsLWWhL._UF1000,1000_QL80_.jpg",Planet Earth III – สารคดีสำรวจความงดงามของธรรมชาติทั่วโลก
+#EXTINF:-1 tvg-id="docu002" tvg-name="Planet Earth III" group-title="สารคดี" tvg-logo="https://m.media-amazon.com/images/I/81OGFsLWWhL._UF1000,1000_QL80_.jpg",Planet Earth III – สารคดีสำรวจความงดงามของธรรมชาติทั่วโลก
 https://example.com/documentary/planet_earth_2.m3u8
 
 
