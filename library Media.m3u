@@ -8,10 +8,10 @@
 #DESCRIPTION:ในโลกอนาคตที่มนุษย์ทำสงครามกับปัญญาประดิษฐ์ เจ้าหน้าที่พิเศษได้รับภารกิจตามหาผู้สร้าง AI ลึกลับที่อาจมีพลังเปลี่ยนโลกได้
 https://example.com/movies/the_creator_2023.m3u8
 
-#EXTINF:-1 tvg-id="movie002" tvg-name="The Creator (2023)" tvg-description="ในโลกอนาคตที่มนุษย์ทำสงครามกับปัญญาประดิษฐ์ เจ้าหน้าที่พิเศษได้รับภารกิจตามหาผู้สร้าง AI ลึกลับที่อาจมีพลังเปลี่ยนโลกได้" group-title="ภาพยนตร์" tvg-logo="https://f.ptcdn.info/653/082/000/s5pc9g28e9p5OcvOmpNKy-o.jpg",The Creator (2023)
+#EXTINF:-1 tvg-id="movie002" tvg-name="The Creator (2023)" tvg-description="ในโลกอนาคตที่มนุษย์ทำสงครามกับปัญญาประดิษฐ์ เจ้าหน้าที่พิเศษได้รับภารกิจตามหาผู้สร้าง AI ลึกลับที่อาจมีพลังเปลี่ยนโลกได้" group-title="ภาพยนตร์" tvg-logo="https://f.ptcdn.info/653/082/000/s5pc9g28e9p5OcvOmpNKy-o.jpg",The Creator (2023)1
 https://example.com/movies/the_creator_2023.m3u8
 
-#EXTINF:-1 tvg-id="movie003" tvg-name="Oppenheimer (2023)" tvg-comment="เรื่องราวของนักฟิสิกส์ผู้สร้างระเบิดปรมาณูลูกแรกของโลก" group-title="ภาพยนตร์" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Oppenheimer (2023)
+#EXTINF:-1 tvg-id="movie003" tvg-name="Oppenheimer (2023)" tvg-comment="เรื่องราวของนักฟิสิกส์ผู้สร้างระเบิดปรมาณูลูกแรกของโลก" group-title="ภาพยนตร์" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Oppenheimer (2023)2
 https://example.com/movies/oppenheimer_2023.m3u8
 
 #EXTINF:-1 tvg-id="movie004" tvg-name="Oppenheimer (2023)" group-title="ภาพยนตร์" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Oppenheimer (2023)
