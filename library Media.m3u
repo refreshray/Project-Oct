@@ -3,12 +3,12 @@
 # ==========================
 # หมวดหมู่: ภาพยนตร์
 # ==========================
-#EXTINF:-1 tvg-id="movie001" tvg-name="The Creator (2023)" group-title="ภาพยนตร์" tvg-logo="https://image.tmdb.org/t/p/w500/creator.jpg",The Creator (2023)
+#EXTINF:-1 tvg-id="movie001" tvg-name="The Creator (2023)" group-title="ภาพยนตร์" tvg-logo="https://f.ptcdn.info/653/082/000/s5pc9g28e9p5OcvOmpNKy-o.jpg",The Creator (2023)
 #EXTGRP:ภาพยนตร์
 #DESCRIPTION:ในโลกอนาคตที่มนุษย์ทำสงครามกับปัญญาประดิษฐ์ เจ้าหน้าที่พิเศษได้รับภารกิจตามหาผู้สร้าง AI ลึกลับที่อาจมีพลังเปลี่ยนโลกได้
 https://example.com/movies/the_creator_2023.m3u8
 
-#EXTINF:-1 tvg-id="movie002" tvg-name="Oppenheimer (2023)" group-title="ภาพยนตร์" tvg-logo="https://image.tmdb.org/t/p/w500/oppenheimer.jpg",Oppenheimer (2023)
+#EXTINF:-1 tvg-id="movie002" tvg-name="Oppenheimer (2023)" group-title="ภาพยนตร์" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Oppenheimer (2023)
 #EXTGRP:ภาพยนตร์
 #DESCRIPTION:เรื่องราวของนักฟิสิกส์ “เจ. โรเบิร์ต ออพเพนไฮเมอร์” ผู้สร้างระเบิดปรมาณูลูกแรกของโลก และผลลัพธ์ที่เปลี่ยนประวัติศาสตร์มนุษยชาติ
 https://example.com/movies/oppenheimer_2023.m3u8
@@ -17,7 +17,7 @@ https://example.com/movies/oppenheimer_2023.m3u8
 # ==========================
 # หมวดหมู่: ซีรีส์
 # ==========================
-#EXTINF:-1 tvg-id="series001" tvg-name="Breaking Bad S01E01" group-title="ซีรีส์" tvg-logo="https://image.tmdb.org/t/p/w500/breakingbad.jpg",Breaking Bad - S01E01
+#EXTINF:-1 tvg-id="series001" tvg-name="Breaking Bad S01E01" group-title="ซีรีส์" tvg-logo="https://image.tmdb.org/t/p/original/2U0dZkcNjkZkMsUxsHo0KRxHzVX.jpg",Breaking Bad - S01E01
 #EXTGRP:ซีรีส์
 #DESCRIPTION:ครูเคมีที่กลายเป็นผู้ผลิตยาแอมเฟตามีนเพื่อหาเงินเลี้ยงครอบครัวหลังพบว่าป่วยเป็นมะเร็ง
 https://example.com/series/breakingbad_s01e01.m3u8
@@ -26,7 +26,7 @@ https://example.com/series/breakingbad_s01e01.m3u8
 # ==========================
 # หมวดหมู่: ดนตรี
 # ==========================
-#EXTINF:-1 tvg-id="music001" tvg-name="Lo-fi Beats Radio" group-title="ดนตรี" tvg-logo="https://example.com/images/lofi.jpg",Lo-fi Beats Radio
+#EXTINF:-1 tvg-id="music001" tvg-name="Lo-fi Beats Radio" group-title="ดนตรี" tvg-logo="https://www.vice.com/wp-content/uploads/sites/2/2018/07/1531510329339-lofihiphop.jpeg",Lo-fi Beats Radio
 #EXTGRP:ดนตรี
 #DESCRIPTION:เพลย์ลิสต์เพลง Lo-fi ผ่อนคลายสำหรับทำงาน อ่านหนังสือ หรือพักผ่อน
 https://example.com/music/lofi_radio.m3u8
@@ -35,7 +35,7 @@ https://example.com/music/lofi_radio.m3u8
 # ==========================
 # หมวดหมู่: สารคดี
 # ==========================
-#EXTINF:-1 tvg-id="docu001" tvg-name="Planet Earth II" group-title="สารคดี" tvg-logo="https://image.tmdb.org/t/p/w500/planetearth.jpg",Planet Earth II
+#EXTINF:-1 tvg-id="docu001" tvg-name="Planet Earth II" group-title="สารคดี" tvg-logo="https://m.media-amazon.com/images/I/81OGFsLWWhL._UF1000,1000_QL80_.jpg",Planet Earth II
 #EXTGRP:สารคดี
 #DESCRIPTION:สารคดีสำรวจความงดงามของธรรมชาติและสิ่งมีชีวิตทั่วโลกจาก BBC Earth
 https://example.com/documentary/planet_earth_2.m3u8
@@ -44,7 +44,7 @@ https://example.com/documentary/planet_earth_2.m3u8
 # ==========================
 # หมวดหมู่: คอนเสิร์ต
 # ==========================
-#EXTINF:-1 tvg-id="concert001" tvg-name="Coldplay Live in Tokyo" group-title="คอนเสิร์ต" tvg-logo="https://example.com/images/coldplaytokyo.jpg",Coldplay Live in Tokyo
+#EXTINF:-1 tvg-id="concert001" tvg-name="Coldplay Live in Tokyo" group-title="คอนเสิร์ต" tvg-logo="https://static.bangkokpost.com/media/content/20161115/2087480.jpg",Coldplay Live in Tokyo
 #EXTGRP:คอนเสิร์ต
 #DESCRIPTION:การแสดงสดสุดอลังการของวง Coldplay จากกรุงโตเกียว พร้อมแสง สี เสียงที่ตื่นตาตื่นใจ
 https://example.com/concerts/coldplay_tokyo_live.m3u8
