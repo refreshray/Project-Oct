@@ -1,88 +1,123 @@
 #EXTM3U url-tvg=""
 
-##################################################
-# 🔹 Jack Reacher (พากย์ไทย)
-##################################################
-# --- ซีซั่น 1 ---
-#EXTINF:-1 tvg-id="REACHER_S1" tvg-name="Jack Reacher ซีซั่น 1 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher" tvg-description="อดีตทหารผู้แข็งแกร่งถูกดึงเข้าไปพัวพันกับคดีฆาตกรรมในเมืองเล็กๆ ที่เต็มไปด้วยความลับ.", Jack Reacher S01 EP1
+# ======================================
+# 📁 หมวด: ซีรี่ย์พากย์ไทย
+# ======================================
+
+# =========================
+# 📺 Breaking Bad (หน้าปก)
+# =========================
+#EXTINF:-1 tvg-id="breakingbad_cover" tvg-name="Breaking Bad" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u9FVGYzeSIkXMTnvidGPK-rsQV_UXOKMPNPyAnbEi2pOLb4j2vzY5zWTVMWuAhUJ1Ss&usqp=CAU" group-title="ซีรี่ย์พากย์ไทย", 📺 Breaking Bad (คลิกเพื่อดูซีซั่น)
+https://fake.link/none.m3u8
+
+#--- Breaking Bad Season 1 ---
+#EXTINF:-1 tvg-id="breakingbad_s1" tvg-name="Breaking Bad S01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u9FVGYzeSIkXMTnvidGPK-rsQV_UXOKMPNPyAnbEi2pOLb4j2vzY5zWTVMWuAhUJ1Ss&usqp=CAU" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad", Breaking Bad S01 EP1
+https://example.com/breakingbad/s1e1.m3u8
+
+#--- Breaking Bad Season 2 ---
+#EXTINF:-1 tvg-id="breakingbad_s2" tvg-name="Breaking Bad S02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u9FVGYzeSIkXMTnvidGPK-rsQV_UXOKMPNPyAnbEi2pOLb4j2vzY5zWTVMWuAhUJ1Ss&usqp=CAU" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad", Breaking Bad S02 EP1
+https://example.com/breakingbad/s2e1.m3u8
+
+#--- Breaking Bad Season 3 ---
+#EXTINF:-1 tvg-id="breakingbad_s3" tvg-name="Breaking Bad S03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u9FVGYzeSIkXMTnvidGPK-rsQV_UXOKMPNPyAnbEi2pOLb4j2vzY5zWTVMWuAhUJ1Ss&usqp=CAU" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad", Breaking Bad S03 EP1
+https://example.com/breakingbad/s3e1.m3u8
+
+#--- Breaking Bad Season 4 ---
+#EXTINF:-1 tvg-id="breakingbad_s4" tvg-name="Breaking Bad S04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u9FVGYzeSIkXMTnvidGPK-rsQV_UXOKMPNPyAnbEi2pOLb4j2vzY5zWTVMWuAhUJ1Ss&usqp=CAU" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad", Breaking Bad S04 EP1
+https://example.com/breakingbad/s4e1.m3u8
+
+
+
+# =========================
+# 📺 Jack Reacher (หน้าปก)
+# =========================
+#EXTINF:-1 tvg-id="reacher_cover" tvg-name="Jack Reacher" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย", 📺 Jack Reacher (คลิกเพื่อดูซีซั่น)
+https://fake.link/none.m3u8
+
+#--- Jack Reacher Season 1 ---
+#EXTINF:-1 tvg-id="reacher_s1" tvg-name="Jack Reacher S01" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher", Jack Reacher S01 EP1
 https://example.com/reacher/s1e1.m3u8
-#EXTINF:-1 tvg-id="REACHER_S1" tvg-name="Jack Reacher ซีซั่น 1 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher", Jack Reacher S01 EP2
-https://example.com/reacher/s1e2.m3u8
 
-# --- ซีซั่น 2 ---
-#EXTINF:-1 tvg-id="REACHER_S2" tvg-name="Jack Reacher ซีซั่น 2 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher" tvg-description="รีชเชอร์กลับมาอีกครั้งในภารกิจใหญ่ที่เกี่ยวพันกับองค์กรทหารลับ.", Jack Reacher S02 EP1
+#--- Jack Reacher Season 2 ---
+#EXTINF:-1 tvg-id="reacher_s2" tvg-name="Jack Reacher S02" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher", Jack Reacher S02 EP1
 https://example.com/reacher/s2e1.m3u8
-#EXTINF:-1 tvg-id="REACHER_S2" tvg-name="Jack Reacher ซีซั่น 2 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher", Jack Reacher S02 EP2
-https://example.com/reacher/s2e2.m3u8
 
-# --- ซีซั่น 3 ---
-#EXTINF:-1 tvg-id="REACHER_S3" tvg-name="Jack Reacher ซีซั่น 3 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher" tvg-description="รีชเชอร์เดินทางข้ามประเทศเพื่อเปิดโปงเครือข่ายอาชญากรรมระดับนานาชาติ.", Jack Reacher S03 EP1
+#--- Jack Reacher Season 3 ---
+#EXTINF:-1 tvg-id="reacher_s3" tvg-name="Jack Reacher S03" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher", Jack Reacher S03 EP1
 https://example.com/reacher/s3e1.m3u8
 
-
-##################################################
-# 🔹 The Boys (พากย์ไทย)
-##################################################
-# --- ซีซั่น 1 ---
-#EXTINF:-1 tvg-id="THEBOYS_S1" tvg-name="The Boys ซีซั่น 1 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/71x8p3qX6VL.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys" tvg-description="กลุ่มมนุษย์ธรรมดาที่ลุกขึ้นสู้กับเหล่าฮีโร่ปลอมผู้ใช้อำนาจเกินขอบเขต.", The Boys S01 EP1
-https://example.com/theboys/s1e1.m3u8
-# --- ซีซั่น 2 ---
-#EXTINF:-1 tvg-id="THEBOYS_S2" tvg-name="The Boys ซีซั่น 2 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/91zMuVhjydL._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys" tvg-description="สงครามระหว่างวีรบุรุษและมนุษย์ยังดำเนินต่อ พร้อมความลับที่โหดร้ายกว่าเดิม.", The Boys S02 EP1
-https://example.com/theboys/s2e1.m3u8
-# --- ซีซั่น 3 ---
-#EXTINF:-1 tvg-id="THEBOYS_S3" tvg-name="The Boys ซีซั่น 3 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81e-xm8LhfL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys" tvg-description="ความตึงเครียดเพิ่มขึ้นเมื่อพลังใหม่และการเมืองเข้ามาเกี่ยวพัน.", The Boys S03 EP1
-https://example.com/theboys/s3e1.m3u8
-# --- ซีซั่น 4 ---
-#EXTINF:-1 tvg-id="THEBOYS_S4" tvg-name="The Boys ซีซั่น 4 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81ac1lO2nVL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys" tvg-description="ความจริงสุดท้ายขององค์กร Vought ถูกเปิดเผย สงครามกำลังเริ่มต้น.", The Boys S04 EP1
-https://example.com/theboys/s4e1.m3u8
+#--- Jack Reacher Season 4 ---
+#EXTINF:-1 tvg-id="reacher_s4" tvg-name="Jack Reacher S04" tvg-logo="https://image.tmdb.org/t/p/w500/fH7PPvPu5Vx5Xs7kpeY3bspgoF5.jpg" group-title="ซีรี่ย์พากย์ไทย / Jack Reacher", Jack Reacher S04 EP1
+https://example.com/reacher/s4e1.m3u8
 
 
-##################################################
-# 🔹 The Witcher (พากย์ไทย)
-##################################################
-# --- ซีซั่น 1 ---
-#EXTINF:-1 tvg-id="WITCHER_S1" tvg-name="The Witcher ซีซั่น 1 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81whhsvZ8BL._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher" tvg-description="เกอรัลต์ นักล่ามอนสเตอร์ผู้โดดเดี่ยว เดินทางในโลกแห่งเวทมนตร์และการหักหลัง.", The Witcher S01 EP1
-https://example.com/witcher/s1e1.m3u8
-# --- ซีซั่น 2 ---
-#EXTINF:-1 tvg-id="WITCHER_S2" tvg-name="The Witcher ซีซั่น 2 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81BLf5h9zWL._AC_UF1000,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher" tvg-description="เกอรัลต์กลับมาพร้อมการฝึกฝนซีรี เพื่อเตรียมพร้อมต่อสงคราม.", The Witcher S02 EP1
-https://example.com/witcher/s2e1.m3u8
-# --- ซีซั่น 3 ---
-#EXTINF:-1 tvg-id="WITCHER_S3" tvg-name="The Witcher ซีซั่น 3 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/91shTe9pPJL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher" tvg-description="ความขัดแย้งระหว่างอาณาจักรและเวทมนตร์ปะทุขึ้นอย่างดุเดือด.", The Witcher S03 EP1
-https://example.com/witcher/s3e1.m3u8
-# --- ซีซั่น 4 ---
-#EXTINF:-1 tvg-id="WITCHER_S4" tvg-name="The Witcher ซีซั่น 4 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/91nM5YH7HzL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher" tvg-description="ตำนานบทใหม่เริ่มขึ้น เมื่อเกอรัลต์ต้องเผชิญกับศัตรูเหนือมนุษย์.", The Witcher S04 EP1
-https://example.com/witcher/s4e1.m3u8
 
+# =========================
+# 📺 Loki (หน้าปก)
+# =========================
+#EXTINF:-1 tvg-id="loki_cover" tvg-name="Loki" tvg-logo="https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg" group-title="ซีรี่ย์พากย์ไทย", 📺 Loki (คลิกเพื่อดูซีซั่น)
+https://fake.link/none.m3u8
 
-##################################################
-# 🔹 Loki (พากย์ไทย)
-##################################################
-# --- ซีซั่น 1 ---
-#EXTINF:-1 tvg-id="LOKI_S1" tvg-name="Loki ซีซั่น 1 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/71PWhQz4QOL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki" tvg-description="เทพแห่งการลวงตาต้องรับมือกับองค์กรควบคุมเวลา TVA.", Loki S01 EP1
+#--- Loki Season 1 ---
+#EXTINF:-1 tvg-id="loki_s1" tvg-name="Loki S01" tvg-logo="https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki", Loki S01 EP1
 https://example.com/loki/s1e1.m3u8
-# --- ซีซั่น 2 ---
-#EXTINF:-1 tvg-id="LOKI_S2" tvg-name="Loki ซีซั่น 2 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/91lP44N2gAL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki" tvg-description="โลคิต้องเผชิญหน้ากับเส้นเวลาใหม่ที่กำลังล่มสลาย.", Loki S02 EP1
+
+#--- Loki Season 2 ---
+#EXTINF:-1 tvg-id="loki_s2" tvg-name="Loki S02" tvg-logo="https://image.tmdb.org/t/p/w500/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki", Loki S02 EP1
 https://example.com/loki/s2e1.m3u8
-# --- ซีซั่น 3 ---
-#EXTINF:-1 tvg-id="LOKI_S3" tvg-name="Loki ซีซั่น 3 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81nZthmWJxL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki" tvg-description="เขาพบตัวเองในจักรวาลคู่ขนานและความลับของ TVA ถูกเปิดเผย.", Loki S03 EP1
+
+#--- Loki Season 3 ---
+#EXTINF:-1 tvg-id="loki_s3" tvg-name="Loki S03" tvg-logo="https://image.tmdb.org/t/p/w500/9dGby5J9yYJRErK8xUeQZl1sl4D.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki", Loki S03 EP1
 https://example.com/loki/s3e1.m3u8
-# --- ซีซั่น 4 ---
-#EXTINF:-1 tvg-id="LOKI_S4" tvg-name="Loki ซีซั่น 4 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/91bxqTDMmDL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki" tvg-description="โลคิพยายามกอบกู้เส้นเวลาและปกป้องจักรวาลจากภัยพิบัติ.", Loki S04 EP1
+
+#--- Loki Season 4 ---
+#EXTINF:-1 tvg-id="loki_s4" tvg-name="Loki S04" tvg-logo="https://image.tmdb.org/t/p/w500/gJ8VX6JSu3ciXHuC2dDGAo2lvwM.jpg" group-title="ซีรี่ย์พากย์ไทย / Loki", Loki S04 EP1
 https://example.com/loki/s4e1.m3u8
 
 
-##################################################
-# 🔹 Breaking Bad (พากย์ไทย)
-##################################################
-# --- ซีซั่น 1 ---
-#EXTINF:-1 tvg-id="BREAKINGBAD_S1" tvg-name="Breaking Bad ซีซั่น 1 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/91mXU5Bd1lL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad" tvg-description="ครูเคมีผันตัวมาทำยาเสพติดหลังรู้ว่าตัวเองป่วยเป็นมะเร็ง.", Breaking Bad S01 EP1
-https://example.com/breakingbad/s1e1.m3u8
-# --- ซีซั่น 2 ---
-#EXTINF:-1 tvg-id="BREAKINGBAD_S2" tvg-name="Breaking Bad ซีซั่น 2 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81Udfwl4fnL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad" tvg-description="วอลเตอร์เริ่มขยายธุรกิจและตกอยู่ในวังวนแห่งอาชญากรรม.", Breaking Bad S02 EP1
-https://example.com/breakingbad/s2e1.m3u8
-# --- ซีซั่น 3 ---
-#EXTINF:-1 tvg-id="BREAKINGBAD_S3" tvg-name="Breaking Bad ซีซั่น 3 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81THZ24RLCL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad" tvg-description="ความสัมพันธ์ระหว่างเจสซี่และวอลเตอร์เริ่มสั่นคลอน.", Breaking Bad S03 EP1
-https://example.com/breakingbad/s3e1.m3u8
-# --- ซีซั่น 4 ---
-#EXTINF:-1 tvg-id="BREAKINGBAD_S4" tvg-name="Breaking Bad ซีซั่น 4 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/81oeVwLaOvL._AC_UF894,1000_QL80_.jpg" group-title="ซีรี่ย์พากย์ไทย / Breaking Bad" tvg-description="การต่อสู้เพื่ออำนาจและชีวิตของวอลเตอร์ถึงจุดแตกหัก.", Breaking Bad S04 EP1
-https://example.com/breakingbad/s4e1.m3u8
+
+# =========================
+# 📺 The Boys (หน้าปก)
+# =========================
+#EXTINF:-1 tvg-id="theboys_cover" tvg-name="The Boys" tvg-logo="https://image.tmdb.org/t/p/w500/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg" group-title="ซีรี่ย์พากย์ไทย", 📺 The Boys (คลิกเพื่อดูซีซั่น)
+https://fake.link/none.m3u8
+
+#--- The Boys Season 1 ---
+#EXTINF:-1 tvg-id="theboys_s1" tvg-name="The Boys S01" tvg-logo="https://image.tmdb.org/t/p/w500/htJzeRcYI2ewMm4PTrg98UMXShe.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys", The Boys S01 EP1
+https://example.com/theboys/s1e1.m3u8
+
+#--- The Boys Season 2 ---
+#EXTINF:-1 tvg-id="theboys_s2" tvg-name="The Boys S02" tvg-logo="https://image.tmdb.org/t/p/w500/ki5CkYQbP2I0E2v4L9kZyEIC5kP.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys", The Boys S02 EP1
+https://example.com/theboys/s2e1.m3u8
+
+#--- The Boys Season 3 ---
+#EXTINF:-1 tvg-id="theboys_s3" tvg-name="The Boys S03" tvg-logo="https://image.tmdb.org/t/p/w500/7Ns6tO3aYjppI5bFhyYZXFhB7vP.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys", The Boys S03 EP1
+https://example.com/theboys/s3e1.m3u8
+
+#--- The Boys Season 4 ---
+#EXTINF:-1 tvg-id="theboys_s4" tvg-name="The Boys S04" tvg-logo="https://image.tmdb.org/t/p/w500/bxHZpV02OOu9vq3sb3MsOudEnYc.jpg" group-title="ซีรี่ย์พากย์ไทย / The Boys", The Boys S04 EP1
+https://example.com/theboys/s4e1.m3u8
+
+
+
+# =========================
+# 📺 The Witcher (หน้าปก)
+# =========================
+#EXTINF:-1 tvg-id="witcher_cover" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg" group-title="ซีรี่ย์พากย์ไทย", 📺 The Witcher (คลิกเพื่อดูซีซั่น)
+https://fake.link/none.m3u8
+
+#--- The Witcher Season 1 ---
+#EXTINF:-1 tvg-id="witcher_s1" tvg-name="The Witcher S01" tvg-logo="https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher", The Witcher S01 EP1
+https://example.com/witcher/s1e1.m3u8
+
+#--- The Witcher Season 2 ---
+#EXTINF:-1 tvg-id="witcher_s2" tvg-name="The Witcher S02" tvg-logo="https://image.tmdb.org/t/p/w500/fzKWwcaam9QSTaMSJlORuSojxio.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher", The Witcher S02 EP1
+https://example.com/witcher/s2e1.m3u8
+
+#--- The Witcher Season 3 ---
+#EXTINF:-1 tvg-id="witcher_s3" tvg-name="The Witcher S03" tvg-logo="https://image.tmdb.org/t/p/w500/gho5ysx1yVYc3UinE47J0ZVtZxY.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher", The Witcher S03 EP1
+https://example.com/witcher/s3e1.m3u8
+
+#--- The Witcher Season 4 ---
+#EXTINF:-1 tvg-id="witcher_s4" tvg-name="The Witcher S04" tvg-logo="https://image.tmdb.org/t/p/w500/xSz5b3P1jI8EIbSxJcTqYhX0KRQ.jpg" group-title="ซีรี่ย์พากย์ไทย / The Witcher", The Witcher S04 EP1
+https://example.com/witcher/s4e1.m3u8
