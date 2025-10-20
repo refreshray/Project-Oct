@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg" tvg-description="นารูโตะ นินจาหนุ่มแห่งหมู่บ้านโคโนฮะ ฝันอยากเป็นโฮคาเงะคนที่ยิ่งใหญ่",Naruto
+#EXTINF:-1 tvg-id="naruto" tvg-logo="https://m.media-amazon.com/images/I/81EJzWGbN8L._AC_UF1000,1000_QL80_.jpg" tvg-description="นารูโตะ นินจาหนุ่มแห่งหมู่บ้านโคโนฮะ ฝันอยากเป็นโฮคาเงะคนที่ยิ่งใหญ่",Naruto
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="onepiece" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/OnePieceVol61Cover.jpg" tvg-description="ลูฟี่และกลุ่มโจรสลัดหมวกฟางออกผจญภัยเพื่อตามหาสมบัติในตำนาน",One Piece
+#EXTINF:-1 tvg-id="onepiece" tvg-logo="https://m.media-amazon.com/images/I/81zwj54srRL.jpg" tvg-description="ลูฟี่และกลุ่มโจรสลัดหมวกฟางออกผจญภัยเพื่อตามหาสมบัติในตำนาน",One Piece
 https://test-streams.mux.dev/test_001/stream.m3u8
+
