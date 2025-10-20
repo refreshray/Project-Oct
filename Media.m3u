@@ -3,41 +3,41 @@
 # -----------------
 # --- ซีซัน 1 ---
 # -----------------
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP1
+#EXTINF:-1 tvg-id="REACHER_SS1" tvg-name="Reacher S01 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP1
 https://series-cdn.team-indy.net:8443/vod/7t5LOtG3l8/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP2
+#EXTINF:-1 tvg-id="REACHER_SS1" tvg-name="Reacher S01 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP2
 https://series-cdn.team-indy.net:8443/vod/cFj5w7PBHz/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP3
+#EXTINF:-1 tvg-id="REACHER_SS1" tvg-name="Reacher S01 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP3
 https://series-cdn.team-indy.net:8443/vod/sATFrHjlg4/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP4
+#EXTINF:-1 tvg-id="REACHER_SS1" tvg-name="Reacher S01 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP4
 https://series-cdn.team-indy.net:8443/vod/LZtMesprEo/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP5
+#EXTINF:-1 tvg-id="REACHER_SS1" tvg-name="Reacher S01 (พากย์ไทย)" tvg-logo="https://static.wikia.nocookie.net/jack-reacher/images/5/5a/Reacher-on-prime-front.jpg/revision/latest?cb=20220119043658" group-title="Series VOD", Reacher S01 EP5
 https://series-cdn.team-indy.net:8443/vod/PYk0sJpRRq/video.mp4/chunk.m3u8
 
 # -----------------
 # --- ซีซัน 2 ---
 # -----------------
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP1
+#EXTINF:-1 tvg-id="REACHER_SS2" tvg-name="Reacher S02 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP1
 https://series-cdn.team-indy.net:8443/vod/7t5LOtG3l8/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP2
+#EXTINF:-1 tvg-id="REACHER_SS2" tvg-name="Reacher S02 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP2
 https://series-cdn.team-indy.net:8443/vod/cFj5w7PBHz/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP3
+#EXTINF:-1 tvg-id="REACHER_SS2" tvg-name="Reacher S02 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP3
 https://series-cdn.team-indy.net:8443/vod/sATFrHjlg4/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP4
+#EXTINF:-1 tvg-id="REACHER_SS2" tvg-name="Reacher S02 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP4
 https://series-cdn.team-indy.net:8443/vod/LZtMesprEo/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP5
+#EXTINF:-1 tvg-id="REACHER_SS2" tvg-name="Reacher S02 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/I/616zYaH2QML._AC_UF1000,1000_QL80_.jpg" group-title="Series VOD", Reacher S02 EP5
 https://series-cdn.team-indy.net:8443/vod/PYk0sJpRRq/video.mp4/chunk.m3u8
 
 # -----------------
 # --- ซีซัน 3 ---
 # -----------------
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP1
+#EXTINF:-1 tvg-id="REACHER_SS3" tvg-name="Reacher S03 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP1
 https://series-cdn.team-indy.net:8443/vod/7t5LOtG3l8/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP2
+#EXTINF:-1 tvg-id="REACHER_SS3" tvg-name="Reacher S03 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP2
 https://series-cdn.team-indy.net:8443/vod/cFj5w7PBHz/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP3
+#EXTINF:-1 tvg-id="REACHER_SS3" tvg-name="Reacher S03 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP3
 https://series-cdn.team-indy.net:8443/vod/sATFrHjlg4/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP4
+#EXTINF:-1 tvg-id="REACHER_SS3" tvg-name="Reacher S03 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP4
 https://series-cdn.team-indy.net:8443/vod/LZtMesprEo/video.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="REACHER" tvg-name="Reacher (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP5
+#EXTINF:-1 tvg-id="REACHER_SS3" tvg-name="Reacher S03 (พากย์ไทย)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg" group-title="Series VOD", Reacher S03 EP5
 https://series-cdn.team-indy.net:8443/vod/PYk0sJpRRq/video.mp4/chunk.m3u8
